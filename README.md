@@ -42,8 +42,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![Exp-4 2 Drawing Pooja](https://github.com/user-attachments/assets/ced4c2cd-f487-49e4-b5e3-a05117cf9612)
 
-<img width="1093" height="776" alt="Screenshot 2025-12-12 104418" src="https://github.com/user-attachments/assets/4bceefaa-f684-4841-9b48-8500e1ee8195" />
 
 ## RESULT:
 Thus, the cut section for solid model is created.
